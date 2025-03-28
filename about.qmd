@@ -1,5 +1,11 @@
----
-title: "About"
----
+![Antonio Ortiz Romero](ruta/a/tu-foto.jpg){fig-align="center"}
 
-About this site
+# Antonio Ortiz Romero
+
+Applied mathematician specializing in geothermal resources.
+
+I am a mathematics graduate currently employed under the Momentum program at CSIC. My work focuses on developing AI-based tools for the real-time management and optimization of deep geothermal resources. Previously, I completed a 9-month internship at DXC Technology, where I gained experience in data engineering by implementing an ETL pipeline and integrating OpenAI's API.
+hola
+[![GitHub](images/github.png)](https://github.com/tuusuario)
+[![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/tuusuario/)
+[![Email](images/email.png)](mailto:tuemail@example.com)
