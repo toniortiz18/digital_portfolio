@@ -1,0 +1,8 @@
+---
+title: "Inicio"
+---
+
+# ¡Bienvenido a mi Portfolio!
+
+Soy [Tu Nombre], graduado en Matemáticas, con experiencia en prácticas en DXC y actualmente en el programa Momentum.
+

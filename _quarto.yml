@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Portfolio de Antonio"
+  navbar:
+    right:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Sobre Mí"
+        href: about.qmd
+      - text: "Educación"
+        href: education.qmd
+      - text: "Experiencia"
+        href: experience.qmd
+      - text: "Proyectos"
+        href: projects.qmd
+      - text: "Habilidades"
+        href: skills.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Contacto"
+        href: contact.qmd
+
+format:
+  html:
+    theme: lux    # Tema estético y elegante basado en Bootstrap
+    css: styles.css  # Archivo para personalizar estilos adicionales
+
+
